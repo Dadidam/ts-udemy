@@ -1,0 +1,14 @@
+{
+  "name": "ts-crash-course",
+  "version": "1.0.0",
+  "description": "My TS path",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Dadidam",
+  "license": "WTFPL",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
